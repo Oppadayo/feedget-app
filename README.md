@@ -74,7 +74,7 @@ Se deseja emular com ios
 
 ## Autora
 
-Feito for Paula Correa 🐼!
+Feito por Paula Correa 🐼!
 
 [![Linkedin Badge](https://img.shields.io/badge/Paula%20Correa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paula-correa-a4b13020a/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paula.correapcs@gmail.com)

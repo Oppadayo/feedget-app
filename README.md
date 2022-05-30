@@ -1,5 +1,5 @@
 
-![App Screenshot](.github/mockup-mobile.png)
+![App Screenshot](/github/mockup-mobile.png)
 
 
 # Feedget Mobile
